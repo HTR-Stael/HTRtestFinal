@@ -19,7 +19,7 @@ For the transcription, commons.org/l/by-sa/4.0/88x31.png"></a><br />This work is
 Stefania Tesser, Depot entrainement pour données HTR, U
 
 ```bibtex
-@misc{gabayHTR2023,
+@misc{tesserHTR2023,
     author="Tesser, Stefania",
     title="Depot entrainement pour données HTR",
     date = "2023",
